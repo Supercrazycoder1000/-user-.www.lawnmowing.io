@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>www.Joshua's-mowing-buisness.io</title>
+        <style>
+         code{
+            color:rgb(113, 120, 61);
+        } 
+        .c1{
+            color:rgb(255, 140, 0);
+        }
+        table{
+            color:rgb(255,255,255);
+            font-family:monospace;
+        }
+       
+        #pharse{
+            font-size:25px;
+          
+        }
+        p{
+            color:white;
+        }
+        h1{
+            color:rgb(0, 250, 0);
+        }
+        h2{
+            color:rgb(0, 250, 225);
+        }
+        h3{
+            color:rgb(0, 250, 88);
+        }
+        body{
+            background-color:black;
+            color:white;
+        }
+        #price{ 
+            color:white;
+        }
+        h4{
+            color:rgb(219, 173, 219);
+        }
+            
+        
+            
+        </style>
+    </head>
+    <body>
+  
+    <h1>Kattelmann's lawn care</h1>
+    
+    <p id="pharse">quality work for a reasnoble price</p>
+    
+    <h2 class="c1">hours</h2>
+    
+    <h4>(mountian time)</h4>
+    
+    <p> sunday 1:00 - 3:00 pm  3:30 - 4:30 pm 
+    <br>
+        monday 1:00 - 3:00 pm  3:30 - 5:00 pm
+        <br>
+        tuesday 1:00 - 3:00 pm 3:30 - 5:00 pm
+    </p>
+    
+    <h2>contact info</h2>
+    
+    <p id= "ci">  Kattelmann<br>+1 605-215-9822<br>+1 605-728-2460<br> +1 605-728-2543<br> 3445 Whimbrel ln <br>colo spgs CO <br>80906</p>
+    
+    <h3>prices</h3> <p>(all prices shown are minimum rate)</p>
+
+        <table>
+        <thead>
+        <th># 
+        <th> service 
+        <th> price
+        </thead>
+            <tbody>
+                <tr>
+                    <td> 1.
+                    <td> mowing
+                    <td>$10 hour
+                </tr>
+                 <tr>
+                    <td>2.
+                    <td>weed whackig
+                    <td>$5
+                </tr>
+                 <tr>
+                    <td>3.
+                    <td>dog poop scoopping
+                    <td>$5
+                </tr>
+                 <tr>
+                    <td>4.
+                    <td> leaf and/or pine needle raking
+                    <td>$10 hour
+                </tr>
+                 <tr>
+                    <td>5.
+                    <td> pulling weeds
+                    <td>$10 hour
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><em>please note:</em> <strong>prices are subject to  change based conditions.</strong></p>
+        
+<code> Thank you</code>
+    </body>
+</html>
