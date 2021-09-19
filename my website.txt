@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Joshua's mowing business</title>
+        <style>
+        #phrase{
+            font-size:25px;
+          
+        }
+        p{
+            color:white;
+        }
+        h1{
+            color:rgb(0, 250, 0);
+        }
+        h2{
+            color:rgb(0, 250, 225);
+        }
+        h3{
+            color:rgb(0, 250, 88);
+        }
+        body{
+            background-color:black;
+        }
+        #price{ 
+            color:white;
+        }
+            
+        
+            
+        </style>
+    </head>
+    <body>
+    <h1>Kattelmann's lawn care</h1>
+    <p id="phrase">Quality work for a reasonable price</p>
+    <h2>contact info</h2>
+    <p id= "ci">  Kattelmann<br>+1 605-215-9822<br>+1 605-728-2460<br> +1 605-728-2543<br> 3445 Whimbrel ln <br>colo spgs CO <br>80906</p>
+    
+    <h3>prices</h3>
+        <ul id= "price">
+            <li>mowing $10 hour
+            <li>weed whacking $10 
+            <li>dog poop scooping $5
+            <li>leaf raking $15
+            <li>de-weeding $10
+            
+        </ul>
+        <p><em>please note:</em> <strong>prices may vary between yards</strong></p>
+
+    </body>
+</html>
